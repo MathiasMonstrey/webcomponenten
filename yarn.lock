@@ -770,6 +770,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@govflanders/vl-ui-vue-components@^3.10.13":
+  version "3.10.13"
+  resolved "https://registry.yarnpkg.com/@govflanders/vl-ui-vue-components/-/vl-ui-vue-components-3.10.13.tgz#f17a10821b65e0acdb89a341a221f360686856ab"
+  integrity sha512-rDxyIitLE3VaUF2l77gKQ0kX3H1oVdNEmxvR6lhODSni68HZeLzS7y563+02TyzLrZvayRI6gbyMU/4gN7U8VQ==
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
